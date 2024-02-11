@@ -1,0 +1,6 @@
+create git hub account 
+usename 
+email 
+passsword 
+
+etc......
